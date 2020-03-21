@@ -1,0 +1,15 @@
+- name: "ADARZA"
+  slug: 'adarza'
+  chapters: 1
+  author: "Giancarlo Ventura"
+  permalink: '/libros/1-adarza'
+  description: "Desde los montes Cárpatos en el Mesolítico hasta el Versalles de un futuro cercano, varios relatos entretejen sus hilos narrativos como preludio a la telaraña principal de Ancestros"
+  cover: '/assets/img/books/adarza/cover.jpg'
+
+- name: "ANCESTROS"
+  slug: adarza
+  chapters: 0
+  author: "Giancarlo Ventura"
+  permalink: '/libros/2-ancestros'
+  description: "Luchas de poder, matrimonios dinásticos, cruzadas, monopolios comerciales, invasiones bárbaras. Intriga, poder y sexo se mezclan en amalgama a través de 700 años de narrativa durante uno de los periodos más oscuros de la humanidad. Este es el mundo de Khalga y Vee. El mundo de los Ancestros."
+  cover: '/assets/img/books/ancestros/cover.jpg'

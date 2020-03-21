@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Los Sakya"
+description: "Los terribles mercenarios entran en escena."
+date:   2020-04-15 00:00:01 -0500
+categories: [CK2Mod]
+uuid: "ad805b57-de28-4956-994a-c5cb5486c5e4"
+image: '/assets/img/Warframe.jpg'
+---
+
+Ha llegado el momento de comenzar a trabajar una de las facciones principales en la narrativa de _Ancestros_. Misteriosos y letales, los más eternos y amargos enemigos de los Pentaghast, los Sakya utilizarán todos los medios a su alcance para frustrar sus planes. Ellos son públicamente un grupo de mercenarios cuya base de operaciones está en el Turkestán, en Asia. Sus tropas están compuestas totalmente de caballería, pero no de la ordinaria: me he tomado la libertad de diseñar una unidad especial completamente pensada para ellos, basada en los _Bucellarii_ de Belisario. Cuando era niño leí la novela acerca de la vida de Belisario, por Robert Graves y me fascinó su guardia personal: jinetes todo terreno, que podían combatir con varios tipos de armas y a pie si eran necesario, lo bastante ágiles para manejar un arco con soltura y lo bastante pesados para destrozar las líneas enemigas bajo el empuje de una carga. He querido dotar a los Sakya de este tipo de tropas, 300 jinetes acampados en la orilla izquierda del mar de Aral, listos para vender sus letales servicios a quien tenga el suficiente oro.
+
+<img src="https://i.imgur.com/iJfa7n6.jpg" alt="Bucellarii" class="img-fluid">
+<span class="caption text-muted">Recreación de unos posibles bucellarii.</span>
+
+Estas unidades tienen características superiores incluso a los caballeros que componen la élite de los ejercitos de los reinos de esta época. Para prevenir el desbalance, solo son 300 (sí, el número es exactamente por quienes piensas) y su costo de mantenimiento es elevado, aunque no tanto para ser empleados con solvencia por cualquier personaje. Los he sometido a tests intensos y hasta ahora se comportan con aire en las batallas. 
+
+La primera líder de los Sakya es Tilda, astuta comandante versada en el arte de la guerra. Tilda también tiene un peso en la narrativa, pues... ah, no, esto es un spoiler y mejor me lo guardo. Ella puede servir como comandante solo si la contrata una nación que permita a las mujeres dirigir efectivamente un ejército. Inicia con 33 años y tiene rasgos muy positivos, te va a caer muy bien.
+
+<img src="https://i.imgur.com/DmFYQOQ.jpg" alt="Tilda y los Sakya" class="img-fluid">
+<span class="caption text-muted">Los Sakya y su líder, descansando en las llanuras después de algunos tests. Algunos han muerto.</span>
+
+Por otra parte, las mecánicas que estuve desarrollando para convertir a los Sakya y los Pentaghast en __sociedades__ van a ser revertidas. Iban a requerir demasiado trabajo y ni siquiera ibas a darte darte cuenta de quienes la conformaban o como actuaban sino solo de sus consecuencias. A cambio, habrán eventos ricos en historia con los cuales podrás interactuar a gusto y tener una mayor inmersión o en tu campaña o en la narrativa de Ancestros.
+
+El cambio es pequeño, pero me ha gustado bastante. Quienes me conocen saben que el nombre Sakya tiene un lugar especial para mí. Tengo pensadas muchas cosas más para ellos y también, descuida, para los Pentaghast. Considero esto es un buen comienzo.
+
+Como siempre, te agradezco por haber llegado al final de esta entrada y acompañarme en el desarrollo de esta aventura. Vienen muchas más cosas importantes para agregar. Espero que te vaya bien en donde sea que estés.

@@ -1,0 +1,36 @@
+---
+layout: page
+title: Los libros
+permalink: /libros/
+---
+
+<div id="works-item-view">
+    {%- for book in site.data.books -%}
+        <div class="discover-module-stories-large on-discover-module-item">
+            <a class="send-cover-event on-story-preview cover cover-home" href="{{ book.permalink }}">
+                <div class="fixed-ratio fixed-ratio-cover">
+                        <img src="{{ book.cover }}" alt="{{ book.name }} por {{ book.author }}">
+                </div>
+            </a>
+            <div class="content">
+                <a class="title meta on-story-preview" href="{{ book.permalink }}">
+                    {{ book.name }}
+                </a>
+                <div class="meta social-meta">
+                    <span class="part-count">
+                        {%- include svg/list.svg -%}
+                        {% if book.chapters == 0 %}
+                            Pendiente
+                        {% elsif book.chapters == 1 %}
+                            {{ book.chapters }} capítulo
+                        {% else %}
+                            {{ book.chapters }} capítulos
+                        {% endif %}
+                    </span>
+                </div>
+
+                <div class="description">{{ book.description }}</div>        
+            </div>
+        </div>
+    {%- endfor -%}
+</div>
