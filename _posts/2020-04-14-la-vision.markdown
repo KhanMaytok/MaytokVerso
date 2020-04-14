@@ -8,8 +8,6 @@ uuid:           "b1fe2b88-1829-4dfa-8c38-a59e69056446"
 image:          "/assets/img/Warframe.jpg"
 ---
 
-*Atención: Algunos considerarán spoiler lo siguiente. No lo creo así, pero hoy en día uno nunca sabe, así pues, mejor doy aviso*
-
 ¿Has oído hablar de la iniciativa Ancestros?
 
 Es nuestro relato principal. Está ambientado en la Edad Media y abarca más de 600 años, iniciando en el 769 d.C., el primero del reinado de quien conocemos ahora como el Emperador Carlomagno. Te presentaré a los dos protagonistas, dos niños inteligentes, taimados y bien presentados: sus nombres son __Khalga__ y __Vee__.
