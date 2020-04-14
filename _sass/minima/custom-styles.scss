@@ -88,3 +88,143 @@
 .PageNavigation .next {
     text-align: right;
 }
+
+.container-chapters {
+    width: 100%;
+    min-width: 100%;
+}
+
+@media (min-width: 1350px){    
+    .col-lg-3 {
+        width: 25%;
+        float: left;
+    }
+    .image-placeholder {
+        width: 256px;
+        height: 400px;
+        background-color: #eee;
+        border: 1px solid #eee;
+        margin: 0 auto;
+        position: relative;
+    }
+    .image-placeholder .cover {
+        width: 256px;
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+        background-color: #eee;
+        color: #eee;
+    }
+
+    .col-lg-offset-1 {
+        margin-left: 8.33333333%;
+    }
+    .col-lg-8 {
+        width: 66.66666667%;
+        float: left;
+    }
+
+}
+
+.row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.btn-view-as-reader {
+    margin: 15px 0;
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 900;
+    color: #fff;
+    background-color: #ff6122;
+    border-color: transparent;
+    line-height: 18px;
+    border-radius: 6px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 2px solid transparent;
+    white-space: nowrap;
+    user-select: none;
+    position: relative;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.col-xs-12 {
+    width: 100%;
+}
+
+
+.table-of-contents {
+    width: 100%;
+    max-width: 300px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    overflow: hidden;
+    line-height: 18px;
+}
+
+.table-of-contents a {
+    display: table-row;
+    position: relative;
+    height: 22px;
+    color: rgba(57, 59, 61, 0.9);
+    text-decoration: none;
+}
+
+.table-of-contents a div {
+    display: table-cell;
+    text-transform: uppercase;
+    display: table-cell;
+    vertical-align: bottom;
+    position: relative;
+}
+
+.table-of-contents a div:nth-of-type(odd) {
+    position: relative;
+    overflow: hidden;
+}
+
+.table-of-contents a div:nth-of-type(odd) span {
+    padding-right: 6px;
+}
+
+.table-of-contents a div:nth-of-type(even) {
+    width: 100px;
+    padding-left: 8px;
+    margin-left: -8px;
+}
+
+.table-of-contents a div::after {
+    content: "············";
+    color: rgba(57, 59, 61, 0.65);
+    display: block;
+    font-size: 10px;
+    letter-spacing: 10px;
+    line-height: 10px;
+    bottom: 1px;
+    position: absolute;
+    vertical-align: bottom;
+    left: 87px;
+    z-index: -1;
+}
+
+.table-of-contents .numero {
+    font-size: 8px;
+    line-height: 14px;
+    vertical-align: baseline;
+    position: relative;
+    top: -3px;
+    text-shadow: 0 0 0 #000;    
+    padding-bottom: 1px;
+    padding-right: 4px;
+}

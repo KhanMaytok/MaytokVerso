@@ -1,0 +1,28 @@
+---
+layout: page
+title: Los libros
+permalink: /adarza/
+---
+
+<div class="container-chapters">
+    <div class="col-lg-3 col-md-3 col-sm-12">
+        <div class="image-placeholder">
+            <img src="https://a.wattpad.com/cover/168016979-256-k655311.jpg" alt="Assassins Study" height="256" class="cover cover-xlg edit-cover">
+        </div>            
+        <button class="btn btn-orange btn-view-as-reader on-view-as-reader">
+            Leer
+        </button>
+    </div>
+    <div class="col-lg-8 col-lg-offset-1 col-sm-12 col-md-8 col-md-offset-1" id="main-edit-container">
+        <div class="table-of-contents">
+            {% for chapter in site.adarza_chapters %}
+                <a href="{{ chapter.permalink }}">
+                    <div><span>{{ chapter.title }}</span></div>
+                    <div>
+                        {{ chapter.date | date: ' %b %d, %Y' }}
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
