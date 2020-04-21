@@ -30,9 +30,9 @@ Vee enrojeció de orgullo. Volvió a mirar a la ventana en un gesto de interno d
 
 — ¿Me acompañas o no?
 
-<div class="separator02"></div>
+<hr class="double-line large">
 
-El viento del galope pasaba furioso entre sus trenzas sueltas. Bajo sus piernas, la energía de la yegua bullía como sangre desbocada escapando por las venas del camino, pintando en manchas grana los árboles de otoño. Era viva, plena, en unión perfecta con la bestia y el paisaje. El mundo se convirtió en un latido prolongado al infinito, sin morir nunca, y ella se proyectó, se disolvió en esa marea oro y rojo hasta perderse sin regresar jamás.
+El viento del galope pasaba furioso entre sus trenzas sueltas. Bajo sus piernas, la energía de la yegua bullía como sangre desbocada escapando por las venas del camino, esfumando en manchas grana los árboles de otoño. Era viva, plena, en unión perfecta con la bestia y el paisaje. El mundo se convirtió en un latido prolongado al infinito, sin morir nunca, y ella se proyectó, se disolvió en esa marea oro y rojo hasta perderse sin regresar jamás.
 
 Y la yegua frenó de golpe, enhiestas las patas, rompiendo el encanto. Vee pareció despertar de su sueño y ahora estaban en el lindero del bosque. Su padre venía su vera, al trote. Desmontó llena de júbilo.
 
@@ -46,21 +46,19 @@ Y la yegua frenó de golpe, enhiestas las patas, rompiendo el encanto. Vee parec
 
 — Quien quería venir por las plantas fue usted, señor de Rune. Yo tomaré un paseo por el bosque.
 
-— No es apropiado para una dama andar sola a merced de los peligros que acechan en este sombrío lugar —su padre seguía bromeando.
+— No es apropiado para una dama andar sola a merced de los peligros que acechan en este sombrío lugar —su padre seguía bromeando. Al parecer quería jugar.
 
-— Excepto que no soy una simple dama. También he venido armada por si el destino me tiende alguna mala jugada.
+— Excepto que no soy una simple dama. También he venido armada por si el azaroso destino me tiende alguna mala jugada.
 
 Su padre deslizó la vista hacia su costado y vio la honda.
 
-— Tampoco es propio de una dama andar con un juguete propio de niños.
+— Tampoco es correcto en una dama andar con un juguete propio de niños.
 
 — A lo mejor mi padre no quería una simple dama por hija, pues no me la hubiera regalado.
 
-Ambos rieron. Su padre le había dado la honda a los 5 años, después de que varios niños la molestaran. Cualquiera hubiese amonestado a los hijos de los siervos, pero él prefirió armarla. Luego de tres frentes hinchadas, todos aprendieron a respetarla. Su padre ahora se cruzó de brazos, parecía pensar mucho. Vee disfrutó el momento, sabiendo lo que vendría.
+Ambos rieron. Su padre le había dado la honda a los 5 años, después de que varios niños la molestaran. Cualquiera hubiese amonestado a los hijos de los siervos, pero él prefirió armarla. Luego de tres frentes hinchadas, todos aprendieron a respetar a Vee de Rune, la terrible niña de la honda. Su padre ahora se cruzó de brazos, parecía pensar mucho. Vee disfrutó el momento, sabiendo lo que vendría.
 
-— Diez manzanas o cepillas ambos caballos
-
-Y corrieron hacia el manzano.
+Ambos corrieron hacia el manzano.
 
 El árbol se erguía soberano sobre el ápice de un risco, cargado de manzanas tan rojas como la sangre del otoño. Vee recogió las 10 piedras más redondas que pudo hallar mientras su padre se ponía a un costado.
 

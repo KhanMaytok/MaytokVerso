@@ -1246,3 +1246,22 @@ button.trigger span::before {
 		display: none;
 	}
 }
+
+hr.large {
+    width: 90%;
+}
+
+hr.double-line {
+    border-top-width: 1px;
+    height: 1px;
+}
+
+hr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DBDBDB;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin: 30px auto;
+    position: relative;
+}
