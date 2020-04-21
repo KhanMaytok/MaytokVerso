@@ -1,7 +1,7 @@
 ---
 image:         https://i.imgur.com/WfSFSjm.jpg
 layout:        book
-title:         Capítulo II
+title:         "Capítulo II"
 book:          Adarza
 description:   En algún lugar de Francia, en el año del Señor de 768 
 permalink:     /libros/adarza/2/

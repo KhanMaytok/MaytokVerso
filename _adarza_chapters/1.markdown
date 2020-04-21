@@ -1,6 +1,6 @@
 ---
 layout:        book
-title:         Capítulo I
+title:         "Capítulo I"
 book:          Adarza
 description:   Souk des Teinturiers, Marruecos.  9 de septiembre del 2026.
 permalink:     /libros/adarza/1/

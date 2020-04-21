@@ -1,7 +1,7 @@
 ---
 image:         https://i.imgur.com/WfSFSjm.jpg
 layout:        book
-title:         Capítulo III
+title:         "Capítulo III"
 book:          Adarza
 description:   Valle de Oros, inicios del 2017
 permalink:     /libros/adarza/3/
