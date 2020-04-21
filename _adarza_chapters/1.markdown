@@ -1,11 +1,11 @@
 ---
-layout:      book
-title:       Capítulo I
-book:        Adarza
-location:    Souk des Teinturiers, Marruecos. Septiembre del 2024.
-permalink:   /libros/adarza/1/
-image:       https://i.imgur.com/TshGnoa.jpg
-date:        2020-04-13 00:00:01 -0500
+layout:        book
+title:         Capítulo I
+book:          Adarza
+description:   Souk des Teinturiers, Marruecos. Septiembre del 2026.
+permalink:     /libros/adarza/1/
+image:         https://i.imgur.com/TshGnoa.jpg
+date:          2020-04-21 00:00:01 -0500
 ---
 
 ¿Vendría? 
