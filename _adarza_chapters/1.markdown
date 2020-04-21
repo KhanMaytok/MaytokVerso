@@ -2,7 +2,7 @@
 layout:        book
 title:         Capítulo I
 book:          Adarza
-description:   Souk des Teinturiers, Marruecos. Septiembre del 2026.
+description:   Souk des Teinturiers, Marruecos.  9 de septiembre del 2026.
 permalink:     /libros/adarza/1/
 image:         https://i.imgur.com/TshGnoa.jpg
 date:          2020-04-21 00:00:01 -0500
@@ -10,19 +10,19 @@ date:          2020-04-21 00:00:01 -0500
 
 ¿Vendría? 
 
-Miró con cuidado hacia la calle. En el destartalado café, la gente solo tenía ojos para el viejo televisor donde transmitían noticias en directo de las manifestaciones y disturbios de cierta intensidad que punteaban en el país desde hace días. Afuera, la ciudad bullía calurosa bajo el sol del lento atardecer. El mercado zumbaba, un panal de personas paseando entre los puestos de los puestos de frutas, tenderetes de cerámica, entre los pequeños talleres de reparación y los de alfombras. Pero había algo distinto en ellos. La gente caminaba de prisa y no parecía detenerse más que a comprar. Había un sentimiento incómodo flotando en el aire, una nube oscura flotando pesada sobre la cabezas de todos, un cuervo negro mirándolos fijamente con ojos de mal presagio.
+Miró con cuidado hacia la calle. En el destartalado café, la gente solo tenía ojos para el viejo televisor donde transmitían noticias en directo de las manifestaciones y disturbios de cierta intensidad que punteaban en el país desde hace días. Afuera, la ciudad bullía calurosa bajo el sol del lento atardecer. El mercado zumbaba, un panal de personas paseando entre los puestos de los puestos de frutas, tenderetes de cerámica, entre los pequeños talleres de reparación y los de alfombras. Pero había algo distinto en ese panal. La gente caminaba de prisa, mirando de un lado a otro y no parecía detenerse más que a comprar. Había un sentimiento incómodo flotando en el aire, una nube oscura flotando pesada sobre la cabezas de todos, un cuervo negro mirándolos fijamente con ojos de mal presagio.
 
 “Souk des teinturiers. Café. Gauche. 16:17”
 
-Eso decía la escueta nota que una jovencita le había entregado en el recibidor del hotel, para luego desaparecer con paso apresurado. Apenas la leyó tuvo el presentimiento de saber quién era el autor y su corazón le dio un vuelco. No le había dicho a nadie, por supuesto. Era su día libre y podía ir por la ciudad con libertad. Después de todo, la misión había sido otro fracaso más. Salió del hotel y se internó en el calor del zoco, buscando entre sus laberínticos pasadizos el tal café de la izquierda. Tuvo que comprar una pashmina de un color amarillo tan desmusurado como el ímpetu de los vendedores que se acercaban a cada paso tratando de venderle algo. Encontró el lugar en una discreta esquina, en la semipenumbra, lo suficientemente discreta para sostener el tipo de encuentro que esperaba. Y ahora allí estaba, solo. Nadie en toda la Tierra sabía su ubicación. Salvo el Otro, claro. Y allí estaba, esperando. Miró su reloj.
+Eso decía la escueta nota que una jovencita le había entregado en el recibidor del hotel, para luego desaparecer con paso apresurado. Apenas la leyó tuvo el presentimiento de saber quién era el autor y su corazón le dio un vuelco. No le había dicho a nadie, por supuesto. Era su día libre y podía ir por la ciudad con libertad. Después de todo, la misión había sido otro fracaso más. Salió del hotel y se internó en el calor del zoco, buscando entre sus laberínticos pasadizos el tal café de la izquierda. Tuvo que comprar una pashmina de un color amarillo tan desmesurado como el ímpetu de los vendedores que se acercaban a cada paso tratando de venderle algo. Encontró el lugar en una discreta esquina, en la semipenumbra, lo suficientemente oculta para sostener el tipo de encuentro que esperaba. Nadie en toda la Tierra sabía su ubicación. Salvo el Otro, claro. Y allí estaba, solo, esperando. Miró su reloj.
 
 — Buenas tardes. 
 
-«Mierda mierda», pensó aterrado, conteniendo apenas un salto. Sentado frente a él estaba un hombre surgido de la nada. Era él. Lo supo en cuanto vio sus ojos. Duros y crueles. Dos animales azules mirándolo con tanta frialdad que parecían apuñalarlo desde un rostro cincelado en frío mármol. 
+«Mierda mierda», pensó aterrado, conteniendo apenas un salto. Sentado frente a él, un hombre parecía haber surgido de la misma nada. Era él. Lo supo en cuanto vio sus ojos. Duros y crueles. Dos animales azules mirándolo con tanta frialdad que parecían apuñalarlo desde un rostro cincelado en frío mármol. 
 
-— Es usted —tartamudeó. 
+— Es usted —repitió en voz alta. 
 
-Por supuesto que era él, idiota. Había leído alguna vez que ciertas personas irradian un aura especial a su alrededor. No de esas tonterías parapsicológicas, sino una especie de fuerza, algún tipo de viento, que ejerce presión sobre los demás. El hombre que lo miraba parecía ser un horno abierto que exhalaba poder puro sobre todo el mercado, aplastandolo sobre su silla. 
+Por supuesto que era él, idiota. Había leído alguna vez que ciertas personas irradian un aura especial a su alrededor. No de esas tonterías parapsicológicas, sino una especie de fuerza, algún tipo de viento, que ejerce presión sobre los demás. El hombre que lo miraba parecía ser un horno abierto que exhalaba poder puro sobre todo el mercado, aplastándolo sobre su silla. 
 
 — Señor… Aguirre —los ojos parecieron volverse más claros. Casi transparentes, como pudieran examinarlo hasta los huesos. Luego se achicaron, como los de un lobo hambriento—. Tiene información que me interesa, según tengo entendido. 
 
@@ -30,11 +30,11 @@ Lope Aguirre de la Vega (sí, ese era su nombre gracias a su bendita madre), Lop
 
 — Sí, sí... así es, en efecto… Como sabrá, soy miembro de... 
 
-— Sé dónde trabaja. No quiero presumir, pero sé sobre todas sus actividades en el último año. No pretendo ser descortés, pero no me interesan. Estoy aquí por la historia. 
+— Sé dónde trabaja. No quiero presumir, pero sé sobre todas sus actividades en el último año. No pretendo ser descortés, pero no me interesan. Usted sabe lo que quiero. Estoy aquí por la historia. 
 
 — Claro —asintió Lope, estirando un folder sobre la mesa—. Este es el listado de... 
 
-— Señor Aguirre... ¿puedo tutearte, verdad? —él asintió de prisa—. Lope, No he venido a escuchar la exposición de una investigación, sino el relato casual de lo que hayas encontrado. Quiero que me cuentes una historia. Me han dicho que eres un relator pasable, por eso estoy aquí. 
+— Señor Aguirre... ¿puedo tutearte, verdad? —él asintió de prisa—. Lope, No he venido a escuchar la exposición de una investigación, sino el relato casual de lo que hayas encontrado. Quiero que me cuentes una historia. Te lo repito, me han dicho que eres un relator pasable, por eso estoy aquí. 
 
 Lope se revolvió incómodo en la silla, aliviado e inquieto a partes iguales, dos sensaciones opuestas tirando de su estómago al mismo tiempo. Miró de soslayo al Otro, como todos lo llamaban. De pronto la magnitud de lo que ocurría lo golpeó en la cara. Lo que estaba pasando era increíble. Lo había elegido. El hombre al que su y él equipo habían estado rastreando sin éxito durante 13 meses, sin obtener nada más que cenizas y sombras. Y ahora estaba allí, a poca distancia, bebiendo con toda la maldita tranquilidad del mundo, directo de la botella, una Coca-Cola que el mozo del café le acababa de alcanzar.
 
