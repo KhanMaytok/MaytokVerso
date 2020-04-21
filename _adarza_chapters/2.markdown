@@ -5,7 +5,7 @@ title:         Capítulo II
 book:          Adarza
 description:   En algún lugar de Francia, en el año del Señor de 768 
 permalink:     /libros/adarza/2/
-date:          2020-04-21 00:00:01 -0500
+date:          2020-04-02 00:00:01 -0500
 ---
 
 Odiaba a su hermano.

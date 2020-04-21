@@ -86,9 +86,40 @@
 	<body class="demo-3">
 		<div id="container" class="container intro-effect-sliced">
 			<!-- Top Navigation -->
-			<div class="codrops-top clearfix">				
-				<a class="codrops-icon" href="#"><span>Capítulo anterior</span></a>
-				<span class="right"><a class="codrops-icon" href="#"><span>Capítulo sigueinte</span></a></span>	
+			<div class="codrops-top clearfix">
+
+				{% assign items_raw = site.adarza_chapters | where: 'type', page.type %}
+				{% assign items = items_raw | sort: 'year' | reverse %}
+
+				{% if items.size > 1 %}
+					{% for item in items %}
+						{% if item.title == page.title %}
+						{% assign item_index = forloop.index %}
+						{% endif %}
+					{% endfor %}
+					
+					{% assign prev_index = item_index | plus: 1 %}
+					{% assign next_index = item_index | minus: 1 %}
+					
+					{% for item in items %}
+						{% if forloop.index == prev_index %}
+						{% assign prev_ = item %}
+						{% endif %}
+						{% if forloop.index == next_index %}
+						{% assign next_ = item %}
+						{% endif %}
+					{% endfor %}
+					
+					{% if prev_ %}
+						<a class="codrops-icon" href="{{ prev_.permalink }}"><span>Capítulo anterior</span></a>
+					{% endif %}					
+					{% if next_ %}
+						<span class="right"><a class="codrops-icon" href="{{ next_.permalink }}"><span>Capítulo siguiente</span></a></span>
+					{% endif %}				
+				{% endif %}
+
+				
+				
 			</div>
 			<header class="header">
 				<div class="bg-img"><img src="{{ page.image }}" alt="Background Image" /></div>
